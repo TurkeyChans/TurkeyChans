@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">I'm a computer science student in Lehman College</h3>
+<h3 align="center">I'm a recent graduate computer science student in Lehman College</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turkeychans&label=Profile%20views&color=0e75b6&style=flat" alt="turkeychans" /> </p>
 
