@@ -4,8 +4,9 @@
 <h3 align="center">Computer Science Graduate | Lehman College</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=turkeychans&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=turkeychans&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
 </p>
+
 
 ---
 
